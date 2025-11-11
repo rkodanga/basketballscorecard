@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+    background: darkblue ;
+    height:auto;
+}
+button{background:black; color:white;font-size: 20px;}
+
+#home-score,#guest-score {background-color: black;}
